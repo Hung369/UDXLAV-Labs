@@ -1,0 +1,1 @@
+Cài toàn bộ toán tử morphology cho ảnh binary và grayscale bằng thủ công sau đó so sánh với hàm thư viện. 
